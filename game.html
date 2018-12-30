@@ -1,0 +1,23 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="game.css">
+</head>
+
+<body>
+    <script src="levels.js"></script>
+    <script src="DOMDisplay.js"></script>
+    <script src="CanvasDisplay.js"></script>
+    <script src="game.js"></script>
+    <script>
+        //test DOMdisplay w/o movement
+        //let simpleLevel = new Level(simpleLevelPlan);
+        //let display = new DOMDisplay(document.body, simpleLevel);
+        //display.syncState(State.start(simpleLevel));
+
+        //runGame(GAME_LEVELS, DOMDisplay); // <- choose which display you want
+        runGame(GAME_LEVELS, CanvasDisplay);
+    </script>
+
+</body>
+</html>
