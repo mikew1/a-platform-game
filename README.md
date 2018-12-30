@@ -32,4 +32,4 @@ Comments there explain what to change.
 
 Javascript can certainly be a pain. See my upcoming game in Elm.
 
-Or, even better, try a [text adventure](http://www.lisperati.com/clojure-spels/casting.html) in lisp.
+Or, even better, try a [text adventure](http://www.lisperati.com/clojure-spels/casting.html) in lisp, but watch [this](http://landoflisp.com/) first.
