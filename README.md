@@ -4,7 +4,7 @@ I typed this in from [here](http://eloquentjavascript.net/16_game.html). Thanks 
 
 # To play
 
-`git clone https://github.com/mikew1/platform-game`
+`git clone https://github.com/mikew1/a-platform-game`
 
 `open game.html` in browser.
 
