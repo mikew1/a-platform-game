@@ -28,8 +28,10 @@ To switch between DOM and Canvas display, open game.html in text editor.
 
 Comments there explain what to change.
 
-# Why is writing a simple game like this so hard?
+You can even run both at once if you want.
 
-Javascript can certainly be a pain. See my upcoming game in Elm.
+---
 
-Or, even better, try a [text adventure](http://www.lisperati.com/clojure-spels/casting.html) in lisp, but watch [this](http://landoflisp.com/) first.
+#### Parting thoughts
+
+Hmm... 
