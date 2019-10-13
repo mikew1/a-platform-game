@@ -34,4 +34,4 @@ You can even run both at once if you want.
 
 #### Parting thoughts
 
-Hmm...  Quo Vadis?
+Hmm... javascript.
